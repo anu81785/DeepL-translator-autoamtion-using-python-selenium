@@ -1,0 +1,41 @@
+Relationen und Funktionen
+
+In welcher Weise ist es nun möglich, Beziehungen zwischen Varia-
+blen darzustellen oder quantitativ zu beschreiben? In der Mathe-
+matik wird hierfür der Begriff Relation verwendet. Wenn eine Varia-
+ble A eine endliche Menge von Ausprägungen besitzt und ebenso
+eine Variable B, dann ist jede Menge paarweiser Zuordnungen zwi-
+schen den Ausprägungen von A und B eine Relation. Oder genauer
+nach Lipschutz (1980, 58): „Eine Relation R von A nach B ist eine
+Teilmenge von A x B“, nämlich der Menge aller möglichen Kombi-
+nationen zwischen den Elementen von A und B.
+
+Als Funktion bezeichnet man eine Relation dann, wenn jeder Aus-
+prägung einer Variablen („Definitionsmenge“) nur genau eine Aus-
+prägung einer anderen Variablen („Funktionsmenge“) zugeordnet
+ist (Abb. 3.5). Viele quantitative Funktionen, d.h. Funktionen zwi-
+schen Zahlenmengen, können durch einfache Formeln beschrie-
+ben werden. Da man in der Psychologie aber neben quantitativen
+häufig auch nichtquantitative („qualitative“) Merkmale berücksich-
+tigen muss (z.B. Geschlecht, Beruf, Stimmung), werden Variablen-
+beziehungen im Bedarfsfall auch aussagenlogisch, mengentheore-
+tisch oder tabellarisch dargestellt (Abb. 3.6).
+
+Wie im vorigen Abschnitt ausgeführt, sind viele Phänomene der
+Psychologie multikausal oder nur bedingt verursacht, so dass für
+ihre Aufklärung oft mehrere Variablen einbezogen werden müs-
+sen. Relationen zwischen zwei Variablen heißen bivariate, zwischen
+mehreren Variablen multivariate Variablenrelationen (Box 3.3).
+Wenn Variablen quantitativ interpretierbare Ausprägungen
+haben, kann man sich für die Darstellung von Variablenrelationen
+auch der analytischen Geometrie bedienen, indem Ausprägungs-
+kombinationen als Punkte oder als Vektoren (Pfeile) in einem
+Raum veranschaulicht werden (Abb. 3.7).
+
+Da aber in der Empirie nur selten solche Relationen zwischen
+Variablen vorkommen, die eindeutig mit einer einfachen mathe-
+matischen Formel beschreibbar sind (z.B. Junktion, lineare Funk-
+tion, Kurve), bedient man sich – wie erwähnt – der Statistik, die
+auch für fehlerbehaftete, unscharfe oder einander überlagernde
+Variablenrelationen adäquate Beschreibungsmethoden anbietet.
+

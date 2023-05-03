@@ -1,0 +1,15 @@
+Relations and functions
+
+
+In what way is it now possible to represent or quantitatively describe relationships between variables? In mathematics the term relation is used for this. If a variable A has a finite set of values and likewise a variable B, then every set of pairwise assignments between the values of A and B is a relation. Or more precisely according to Lipschutz (1980, 58): "A relation R from A to B is a subset of A x B", namely the set of all possible combinations between the elements of A and B.
+
+
+A relation is called a function if each expression of a variable ("definition set") is assigned to exactly one expression of another variable ("function set") (Fig. 3.5). Many quantitative functions, i.e. functions between sets of numbers, can be described by simple formulas. In psychology, however, non-quantitative ("qualitative") characteristics (e.g., gender, occupation, mood) must often be taken into account in addition to quantitative ones, so variable relationships are also represented in propositional logic, set theory, or tabular form if necessary (Fig. 3.6).
+
+
+As explained in the previous section, many phenomena in psychology are multicausal or only conditionally caused, so that their explanation often requires the inclusion of several variables. Relations between two variables are called bivariate, between several variables multivariate variable relations (Box 3.3).If variables have quantitatively interpretable characteristics, one can also use analytical geometry for the representation of variable relations by illustrating characteristic combinations as points or as vectors (arrows) in a space (Fig. 3.7).
+
+
+However, since in empirical studies there are rarely relations between variables that can be described unambiguously with a simple mathematical formula (e.g., junction, linear function, curve), one uses - as mentioned above - statistics, which also offers adequate description methods for error-prone, fuzzy or overlapping variable relations.
+
+
