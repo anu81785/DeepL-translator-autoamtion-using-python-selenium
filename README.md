@@ -8,8 +8,8 @@ This is a script written in python using selenium library to automate translatio
 
 **Steps**
 * Run the commands below to install selenium and webdriver_manager.<br />
-   *pip install selenium<br />
-   *pip install webdriver_manager
+   * pip install selenium<br />
+   * pip install webdriver_manager
    
 2. Create a file translator.py in your local machine and paste all the code from translator.py file above to your file.
 3. Create a file with .txt extension in the same directory where your translator.py file exists.
